@@ -1,0 +1,39 @@
+{
+  "food": [
+    {
+      "id": 2,
+      "name": "Yellow curry",
+      "category": "curry",
+      "ethnicity": "thai",
+      "barcode": "0011110881496"
+    },
+    {
+      "id": 4,
+      "name": "Ravioli Funghi",
+      "category": "pasta",
+      "ethnicity": "italian",
+      "barcode": "0333669016441"
+    },
+    {
+      "id": 5,
+      "name": "Tuscan Soup",
+      "category": "vegetarian",
+      "ethnicity": "italian",
+      "barcode": "5000169116562"
+    },
+    {
+      "name": "red curry",
+      "category": "curry",
+      "ethnicity": "thai",
+      "id": 7,
+      "barcode": "0044738201698"
+    },
+    {
+      "name": "Fettucini",
+      "category": "pasta",
+      "ethnicity": "italian",
+      "id": 9,
+      "barcode": "8001665703659"
+    }
+  ]
+}

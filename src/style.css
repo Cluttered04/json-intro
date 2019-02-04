@@ -1,0 +1,13 @@
+#foodlist {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.flex {
+    border: 1px solid black;
+}
+
+
+
+
